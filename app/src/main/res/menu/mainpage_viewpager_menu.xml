@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_bar_itemA"
+        android:enabled="true"
+        android:icon="@drawable/ic_files"
+        android:title="@string/nav_labelA"/>
+    <item
+        android:id="@+id/navigation_bar_itemB"
+        android:enabled="true"
+        android:icon="@drawable/ic_upload"
+        android:title="@string/nav_labelB"/>
+    <item
+        android:id="@+id/navigation_bar_itemC"
+        android:enabled="true"
+        android:icon="@drawable/ic_setting"
+        android:title="@string/nav_labelC"/>
+</menu>
