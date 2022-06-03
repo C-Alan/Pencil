@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Pencil</string>
+    <string name="app_version">Ver 1.0.0 - Alpha</string>
     <string name="nav_labelA">Write</string>
     <string name="nav_labelB">Content</string>
     <string name="nav_labelC">Me</string>
+    <string name="MainActivity_PageA_CardView_TextA">New a Markdown!</string>
+    <string name="MainActivity_PageB_CardView_TextA">Upload to GitHub</string>
+    <string name="MainActivity_PageB_CardView_TextB">If not, you can also save your notes in local folders.</string>
 </resources>
