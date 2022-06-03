@@ -2,14 +2,6 @@
 /.gradle
 /build
 /gradle
-build.gradle
-grade.properties
-gradlew
-gradlew.bat
-local.properties
-settings.gradle
-
 /app/build
-/app/proguard-rules.pro
 /app/src/androidTest
 /app/src/test
