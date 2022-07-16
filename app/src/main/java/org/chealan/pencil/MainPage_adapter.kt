@@ -41,4 +41,3 @@ class ReturnNull : Fragment() {
     // I don't know what to do next :)
     // You see, it's returning nothing!
 }
-    
